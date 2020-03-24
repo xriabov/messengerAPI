@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="330fc6d7-4d67-4e77-ab58-950a7c6a42cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MessengerAPI/Controllers/UserController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/066A9DDD-53B5-4025-9A8E-21574BA94C30/13/EndpointMiddleware.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessengerAPI/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessengerAPI/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessengerAPI/Models/MessengerContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessengerAPI/Models/Message.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessengerAPI/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessengerAPI/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7C04491C-D6D6-4C3E-9E46-423AB91DB1CA/11C/ResourceInvoker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessengerAPI/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessengerAPI/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessengerAPI/Controllers/MessagesController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MessengerAPI/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/MessengerAPI/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/MessengerAPI/appsettings.json" />
+        <option value="$PROJECT_DIR$/MessengerAPI/Models/MessengerContext.cs" />
+        <option value="$PROJECT_DIR$/MessengerAPI/Models/Message.cs" />
+        <option value="$PROJECT_DIR$/MessengerAPI/Startup.cs" />
+        <option value="$PROJECT_DIR$/MessengerAPI/Models/User.cs" />
+        <option value="$PROJECT_DIR$/MessengerAPI/Controllers/UserController.cs" />
+        <option value="$PROJECT_DIR$/MessengerAPI/Controllers/MessagesController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YtgGFhdWsUPWp6BDaoOJsPgygf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.MessengerAPI">
+    <configuration name="MessengerAPI" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/MessengerAPI/MessengerAPI.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="WebApplication" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebApplication/WebApplication.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="330fc6d7-4d67-4e77-ab58-950a7c6a42cc" name="Default Changelist" comment="" />
+      <created>1583767206163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583767206163</updated>
+      <workItem from="1583767207848" duration="985000" />
+      <workItem from="1583771657038" duration="4427000" />
+      <workItem from="1583931307249" duration="10699000" />
+      <workItem from="1583965097529" duration="7166000" />
+      <workItem from="1584384338631" duration="14853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="451" y="172" key="#WebApplication" timestamp="1583775176266">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="451" y="172" key="#WebApplication/0.0.1680.1050@0.0.1680.1050" timestamp="1583775176266" />
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583775203736">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583775203736" />
+    <state width="518" height="466" key="DebuggerActiveHint" timestamp="1584393698083">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="518" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1584393698083" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1584476161998">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584476161998" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1584476161997">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584476161997" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1584476161996">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584476161996" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1584476161998">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584476161998" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1584393974827">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584393974827" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.23.1680.988@0.23.1680.988" timestamp="1583966702726" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1584393974826">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584393974826" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.23.1680.988@0.23.1680.988" timestamp="1583966702725" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1584393974825">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584393974825" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.23.1680.988@0.23.1680.988" timestamp="1583966702724" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1584393974827">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584393974827" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.23.1680.988@0.23.1680.988" timestamp="1583966702725" />
+    <state width="1638" height="363" key="GridCell.Tab.2.bottom" timestamp="1584393974829">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584393974829" />
+    <state width="1638" height="363" key="GridCell.Tab.2.center" timestamp="1584393974828">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584393974828" />
+    <state width="1638" height="363" key="GridCell.Tab.2.left" timestamp="1584393974828">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584393974828" />
+    <state width="1638" height="363" key="GridCell.Tab.2.right" timestamp="1584393974829">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584393974829" />
+    <state width="1638" height="363" key="GridCell.Tab.3.bottom" timestamp="1584393974831">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.3.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584393974831" />
+    <state width="1638" height="363" key="GridCell.Tab.3.center" timestamp="1584393974830">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.3.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584393974830" />
+    <state width="1638" height="363" key="GridCell.Tab.3.left" timestamp="1584393974830">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.3.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584393974830" />
+    <state width="1638" height="363" key="GridCell.Tab.3.right" timestamp="1584393974831">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.3.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584393974831" />
+    <state width="1638" height="363" key="GridCell.Tab.4.bottom" timestamp="1584393974833">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.4.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584393974833" />
+    <state width="1638" height="363" key="GridCell.Tab.4.center" timestamp="1584393974832">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.4.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584393974832" />
+    <state width="1638" height="363" key="GridCell.Tab.4.left" timestamp="1584393974832">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.4.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584393974832" />
+    <state width="1638" height="363" key="GridCell.Tab.4.right" timestamp="1584393974833">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.4.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584393974833" />
+    <state x="440" y="264" key="Rider.ProjectTemplateDialog.Size" timestamp="1584547686943">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="264" key="Rider.ProjectTemplateDialog.Size/0.0.1680.1050@0.0.1680.1050" timestamp="1584547686943" />
+    <state x="503" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1584392810789">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="503" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1584392810789" />
+  </component>
+</project>
